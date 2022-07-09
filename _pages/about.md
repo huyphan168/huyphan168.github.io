@@ -11,7 +11,7 @@ redirect_from:
 
 # 1. About me
 
-Hi, my full name is Phan Nhat Huy in Vietnamese, however, you can call me Kevin Phan (my favorite character in Minions). Now, I’m doing my undergraduate at very young university [Home - VinUni](https://vinuni.edu.vn/). Despite of studying Electrical Engineering, I am still able to enroll in interesting Computer Science courses in school and self-learn many other topics related to applied mathematics, computing and artificial intelligence. 
+Hi, my full name is Phan Nhat Huy in Vietnamese, however, you can call me Kevin Phan. Now, I’m doing my undergraduate at new university [Home - VinUni](https://vinuni.edu.vn/). Despite of studying Electrical Engineering, I am still able to enroll in interesting Computer Science courses in school and self-learn many other topics related to applied mathematics, computing and artificial intelligence. 
 My knowledge transverses along many fields: signal processing, computer vision, few-shot learning, continual learning, statistics, optimization and computing in general.
 In this site, you can see content of:
 
@@ -25,5 +25,5 @@ Learning from my mentors in the early months of university and personal experien
 at the end of the day, I found that "strives to know more everyday" is the most important. Regardless of any thing you want to learn or read, at some point in your career, that thing gonna be helpful in some ways.
 
 # 3. Research Interests
-My research and working interests are few-shot learning making intelligence system more data efficient, continual Learning, real-World intelligence system and bio-Inspired solutions toward AI problems. However
+My research and working interests are few-shot learning making intelligence system more data efficient, continual learning, real-ưorld intelligence system and bio-Inspired solutions toward AI problems. However
 most of published works will be medical-related AI.  
